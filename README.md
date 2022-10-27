@@ -32,11 +32,6 @@
 ```
 pip install -r requirements.txt
 ``` 
-- Замените в файле venv\lib\site-packages\cvzone\HandTrackingModule.py line 143
-```
-x1, y1, u1 = p1
-x2, y2, u1 = p2
-```
 
 - В папке с файлом main.py выполните команду:
 ```
